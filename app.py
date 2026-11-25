@@ -29,7 +29,7 @@ def reset_all_filters():
 # Sidebar brand, upload & navigation
 st.sidebar.markdown('<div class="section-label">Amazon Horizon BI</div>', unsafe_allow_html=True)
 st.sidebar.markdown("### Amazon India")
-st.sidebar.caption("Prepared for Ravi | Built by Manoj")
+st.sidebar.caption("Prepared for Ravi | Built by Swaranjali")
 st.sidebar.divider()
 
 st.sidebar.markdown('<div class="section-label">Dataset Source</div>', unsafe_allow_html=True)
